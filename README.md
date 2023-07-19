@@ -54,4 +54,4 @@ ro16_to_n14         ! o16(p g)f17(e+nu)o17(p a)n14
 ```
 + `star/private/profile.f90`: add_eps_neu_rates = 0 add_eps_nuc_rates =0 add_screened_rates=0
     - The screen module calculates electron screening factors for thermonuclear reactions in both the weak and strong regime
-+ `star_data/public/star_data_def.f90`: structure of `star_info`
++ `star_data/public/star_data_def.f90` structure of `star_info`
